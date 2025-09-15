@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/2025-react-basic/static/css/main.67899a99.css",
+    "main.js": "/2025-react-basic/static/js/main.a8c57f2d.js",
+    "static/media/2.png": "/2025-react-basic/static/media/2.c9a4d50df13567f223e0.png",
+    "index.html": "/2025-react-basic/index.html",
+    "main.67899a99.css.map": "/2025-react-basic/static/css/main.67899a99.css.map",
+    "main.a8c57f2d.js.map": "/2025-react-basic/static/js/main.a8c57f2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67899a99.css",
+    "static/js/main.a8c57f2d.js"
+  ]
+}
