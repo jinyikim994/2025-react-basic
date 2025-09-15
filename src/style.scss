@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+// 초기 세팅 스타일 시트
+/* 컴포넌트 스타일 시트 */
+
+/* fonts */
+@import "./assets/styles/setting/fonts";
+
+/* reset */
+@import "./assets/styles/setting/reset.scss";
+
+/* mixin*/
+@import "./assets/styles/setting/_mixin.scss";
+
+/* var */
+@import "./assets/styles/setting/_vars.scss";
+
+/* common */
+@import "./assets/styles/common.scss";
+
+// header
+@import "./assets/styles/layout/header.scss";
+
+// footer
+@import "./assets/styles/layout/footer.scss";
+
+// main
+@import "./assets/styles/page/main.scss";
+
+// page1
+@import "./assets/styles/page/page1.scss";
+
+// page2
+@import "./assets/styles/page/page2.scss";
+
+// page3
+@import "./assets/styles/page/page3.scss";
+
+// page4
+@import "./assets/styles/page/page4.scss";

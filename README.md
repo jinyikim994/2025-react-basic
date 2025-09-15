@@ -1,20 +1,20 @@
-# 포트폴리오 사이트 만들기 프로젝트
+# 리액트 사이트 만들기 프로젝트
 
-하나의 웹사이트를 리액트 프레임워크를 사용하여 공부하는 용도로 만들어 봅니다.
+이 프로젝트는 React 프레임워크를 활용하여 하나의 웹사이트를 제작하며, React의 가장 기본적인 구조를 이해하고 학습하는 데 목적이 있습니다.
 
-1. [react.js](https://github.com/webstoryboy/port2023-react)를 이용하여 사이트를 제작합니다. 
-
-이 튜토리얼은 포트폴리오 컨셉의 사이트를 4가지 버전으로 반복하여 만들어 보면서, 프론트앤드 개발의 시발점이 될 수 있는 튜토리업입니다.
-자바스크립트 프레임워크를 통해 사이트를 효율적으로 만들어 보는 방법을 익힙니다. 
-깊이 배우기 보다는 다양한 방법을 사용하여 흐름과 감각을 익히기 위한 튜토리얼입니다. 
-
-## 완성작 보기 
-미리보기 : 
+목표
+1. React의 기본 구성 요소와 구조를 파악
+2. 간단한 포트폴리오 사이트 구현을 통해 React 실습
+3. 코드 분석 및 해석
 
 ## 사용 스택
-- react(https://ko.legacy.reactjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
+- React.js: 컴포넌트 기반 UI 구축 및 상태 관리
+- React Router DOM: 페이지 간 라우팅 처리
 
-## 프로젝트 실행
-- react를 설치합니다. `npx create-react-app 타이틀`
-- react-router-dom을 설치합니다. `npm install react-router-dom`
+### 완성작 보기 
+URL : 
+
+#### 프로젝트 실행
+1. React 앱 생성 `npx create-react-app 프로젝트명`
+2. React Router DOM 설치 `npm install react-router-dom`
 
